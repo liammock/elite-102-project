@@ -1,2 +1,1 @@
-print("Hello world")
-print("Ya")
+user_choice = input("Welcome to the Bank of C2C helper bot, what can I help you with today?\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n1.Checking account balance\n2.Depositing funds\n3. Withdrawing funds\n4. Creating a new account\n5. Deleting an account\n6. Modifying account details\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n")
